@@ -1,0 +1,55 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+
+.caligrafia{
+	font-family: Comic Sans MS,arial,verdana;
+}
+
+.posicion{
+	position: absolute;
+	top: 115%;
+	left: 37%;
+	font-family: Comic Sans MS,arial,verdana;
+}
+
+
+#img1{
+	width: 100%;
+	height: 65%;
+}
+
+h1{
+	text-align: center;
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+
+h3{
+	position: absolute;
+	top: 80%;
+	left: 10%;
+}
+
+span{
+	position: absolute;
+	top: 80%;
+	left: 30%;
+}
+
+table,tr,td{
+	border: 3px black solid;
+	text-align: center;
+}
+
+footer{
+	position: relative;
+	font-family: Comic Sans MS,arial,verdana;
+	top: 115%;
+	text-align: center;
+}
